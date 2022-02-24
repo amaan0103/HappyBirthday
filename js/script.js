@@ -11,7 +11,7 @@ $('#giftButton').click(function(){
 	  },1000);
 	  
 	  //$("i1").hide();
-	},31000);
+	},30000);
 	
 	$("#i2").hide();
 	$("#i3").hide();
@@ -22,7 +22,7 @@ $('#giftButton').click(function(){
 		$("#i2").fadeIn(1000);
 		$("#i1").fadeOut(3000);
 		
-	},12000);
+	},12300);
 	setTimeout(function(){
 		
 		$("#i3").fadeIn(1000);
