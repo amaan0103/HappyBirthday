@@ -122,6 +122,7 @@ button {
 #wishH1.animation-start::before { 
   animation: wish 30s linear infinite;
   animation-delay:1.5s;
+  animation-fill-mode: forward;
 }
 #heading{
 	height:20%;
