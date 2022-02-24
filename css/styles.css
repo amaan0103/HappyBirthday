@@ -121,7 +121,7 @@ button {
 }
 #wishH1.animation-start::before { 
   animation: wish 30s linear infinite;
-  animation-delay:2.3s;
+  animation-delay:1.5s;
 }
 #heading{
 	height:20%;
@@ -158,7 +158,7 @@ button {
 @media (min-width: 768px){
 	#picDiv>section{
 		height:80%;
-		width:50%;
+		width:40%;
 		margin-left:auto;
 		margin-right:auto;
 		/*background: url("../images/img1.jpg");
